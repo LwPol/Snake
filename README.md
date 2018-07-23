@@ -1,0 +1,2 @@
+# Snake
+Standard snake game
